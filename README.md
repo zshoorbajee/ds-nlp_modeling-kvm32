@@ -1,3 +1,3 @@
 # ds-natural_language_processing
 
-This repository describes natural language processing and its implementation in Python with `nltk` and `sklearn`. It was created with love by the Flatiron School.
+This repository describes modeling for natural language processing in Python. It was created with love by the Flatiron School.
